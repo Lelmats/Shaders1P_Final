@@ -4,6 +4,7 @@ Documentación de proyecto 1 Parcial
 Max Rivera.
 
 Este proyecto incluye lo siguiente dentro del shader:
+
 •	Una textura principal
 
 •	Color albedo
